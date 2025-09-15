@@ -24,7 +24,6 @@ Each project is organized in its own folder with a descriptive name. Example pro
 - `ESP8266_TemperatureMonitor` – Monitor temperature via Wi-Fi
 - `ESP32_HomeAutomation` – Control devices using ESP32
 
-*(You can expand this list with all your project names.)*
 
 ## Installation
 1. Install [Arduino IDE](https://www.arduino.cc/en/software) or [PlatformIO](https://platformio.org/) in VSCode.
