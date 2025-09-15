@@ -1,6 +1,5 @@
 # Microcontroller Projects Repository
-
-Welcome to my collection of **Arduino, ESP8266, and ESP32 projects**! This repository contains a variety of projects, from simple beginners’ experiments to more advanced IoT and electronics applications.
+collection of **Arduino, ESP8266, and ESP32 projects**. This repository contains a variety of projects, from simple beginners’ experiments to more advanced IoT and electronics applications.
 
 ## Table of Contents
 - [About](#about)
