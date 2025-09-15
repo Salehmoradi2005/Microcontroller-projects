@@ -18,12 +18,6 @@ This repository is a personal collection of microcontroller projects aimed at le
 - Home automation
 - Robotics and more
 
-## Projects
-Each project is organized in its own folder with a descriptive name. Example projects:
-- `Blink_LED` – Classic Arduino LED blink example
-- `ESP8266_TemperatureMonitor` – Monitor temperature via Wi-Fi
-- `ESP32_HomeAutomation` – Control devices using ESP32
-
 
 ## Installation
 1. Install [Arduino IDE](https://www.arduino.cc/en/software) or [PlatformIO](https://platformio.org/) in VSCode.
